@@ -1,5 +1,8 @@
 # test_dicegame.py
-# Unit tests for DiceGame assignment
+# Author: Kayode Okanlawon
+# QCC ID: 24615461
+#
+# ET574 HW4 - Dice Game Simulator - Unit tests
 
 import unittest
 from main import Die, DiceGame
